@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mojastrona'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDFEAB69F5004766BBD0DA708305D993 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4D1C5170DF34030B226A1019E3B1EB8 }}
